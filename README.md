@@ -1,4 +1,4 @@
 love
 ====
 
-keyring.github.io/love
+http://keyring.github.io/love
